@@ -1,0 +1,15 @@
+.home{
+    background-image: url(../image/drew-coffman-1872.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+#recipes img{
+    height: 200;
+}
+.mm{
+    height: 200;
+}
+
+ul li{
+    cursor: pointer;
+}
